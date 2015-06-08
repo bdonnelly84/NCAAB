@@ -1,0 +1,189 @@
+Team_ID,Name,Conference
+Albany,Albany,America East
+Binghamton,Binghamton,America East
+Hartford,Hartford,America East
+Maine,Maine,America East
+Massachusetts Lowell,Massachusetts Lowell,America East
+New Hampshire,New Hampshire,America East
+Stony Brook,Stony Brook,America East
+UMBC,University of Maryland (Baltimore County),America East
+Vermont,Vermont,America East
+SMU,Southern Methodist University,American Athletic
+Cincinnati,Cincinnati,American Athletic
+Connecticut,Connecticut,American Athletic
+East Carolina,East Carolina,American Athletic
+Houston,Houston,American Athletic
+Memphis,Memphis,American Athletic
+South Florida,South Florida,American Athletic
+Temple,Temple,American Athletic
+Tulane,Tulane,American Athletic
+Tulsa,Tulsa,American Athletic
+UCF,University of Central Florida,American Athletic
+Davidson,Davidson,Atlantic 10
+Dayton,Dayton,Atlantic 10
+Duquesne,Duquesne,Atlantic 10
+Fordham,Fordham,Atlantic 10
+George Mason,George Mason,Atlantic 10
+George Washington,George Washington,Atlantic 10
+La Salle,La Salle,Atlantic 10
+Massachusetts,Massachusetts,Atlantic 10
+Rhode Island,Rhode Island,Atlantic 10
+Richmond,Richmond,Atlantic 10
+Saint Joseph's (PA),Saint Joseph's (PA),Atlantic 10
+Saint Louis,Saint Louis,Atlantic 10
+St. Bonaventure,St. Bonaventure,Atlantic 10
+Virginia Commonwealth,Virginia Commonwealth,Atlantic 10
+Boston College,Boston College,Atlantic Coast
+Clemson,Clemson,Atlantic Coast
+Duke,Duke,Atlantic Coast
+Florida State,Florida State,Atlantic Coast
+Georgia Tech,Georgia Tech,Atlantic Coast
+Louisville,Louisville,Atlantic Coast
+Miami (FL),Miami (FL),Atlantic Coast
+North Carolina,North Carolina,Atlantic Coast
+North Carolina State,North Carolina State,Atlantic Coast
+Notre Dame,Notre Dame,Atlantic Coast
+Pittsburgh,Pittsburgh,Atlantic Coast
+Syracuse,Syracuse,Atlantic Coast
+Virginia,Virginia,Atlantic Coast
+Virginia Tech,Virginia Tech,Atlantic Coast
+Wake Forest,Wake Forest,Atlantic Coast
+Florida Gulf Coast,Florida Gulf Coast,Atlantic Sun
+Jacksonville,Jacksonville,Atlantic Sun
+Kennesaw State,Kennesaw State,Atlantic Sun
+Lipscomb,Lipscomb,Atlantic Sun
+North Florida,North Florida,Atlantic Sun
+Northern Kentucky,Northern Kentucky,Atlantic Sun
+Stetson,Stetson,Atlantic Sun
+USC Upstate,USC Upstate,Atlantic Sun
+Baylor,Baylor,Big 12
+Iowa State,Iowa State,Big 12
+Kansas,Kansas,Big 12
+Kansas State,Kansas State,Big 12
+Oklahoma,Oklahoma,Big 12
+Oklahoma State,Oklahoma State,Big 12
+TCU,Texas Christian University,Big 12
+Texas,Texas,Big 12
+Texas Tech,Texas Tech,Big 12
+West Virginia,West Virginia,Big 12
+Butler,Butler,Big East
+Creighton,Creighton,Big East
+DePaul,DePaul,Big East
+Georgetown,Georgetown,Big East
+Marquette,Marquette,Big East
+Providence,Providence,Big East
+Seton Hall,Seton Hall,Big East
+St. John's,St. John's,Big East
+Villanova,Villanova,Big East
+Xavier,Xavier,Big East
+Eastern Washington,Eastern Washington,Big Sky
+Idaho,Idaho,Big Sky
+Idaho State,Idaho State,Big Sky
+Montana,Montana,Big Sky
+Montana State,Montana State,Big Sky
+North Dakota,North Dakota,Big Sky
+Northern Arizona,Northern Arizona,Big Sky
+Northern Colorado,Northern Colorado,Big Sky
+Portland State,Portland State,Big Sky
+Sacramento State,Sacramento State,Big Sky
+Southern Utah,Southern Utah,Big Sky
+Weber State,Weber State,Big Sky
+Campbell,Campbell,Big South
+Charleston Southern,Charleston Southern,Big South
+Coastal Carolina,Coastal Carolina,Big South
+Gardner-Webb,Gardner-Webb,Big South
+High Point,High Point,Big South
+Liberty,Liberty,Big South
+Longwood,Longwood,Big South
+Presbyterian,Presbyterian,Big South
+Radford,Radford,Big South
+UNC Asheville,UNC Asheville,Big South
+Winthrop,Winthrop,Big South
+Illinois,Illinois,Big Ten
+Indiana,Indiana,Big Ten
+Iowa,Iowa,Big Ten
+Maryland,Maryland,Big Ten
+Michigan,Michigan,Big Ten
+Michigan State,Michigan State,Big Ten
+Minnesota,Minnesota,Big Ten
+Nebraska,Nebraska,Big Ten
+Northwestern,Northwestern,Big Ten
+Ohio State,Ohio State,Big Ten
+Penn State,Penn State,Big Ten
+Purdue,Purdue,Big Ten
+Rutgers,Rutgers,Big Ten
+Wisconsin,Wisconsin,Big Ten
+Cal Poly,Cal Poly,Big West
+Cal State Fullerton,Cal State Fullerton,Big West
+Cal State Northridge,Cal State Northridge,Big West
+Hawaii,Hawaii,Big West
+Long Beach State,Long Beach State,Big West
+UC Davis,UC Davis,Big West
+UC Irvine,UC Irvine,Big West
+UC Riverside,UC Riverside,Big West
+UC Santa Barbara,UC Santa Barbara,Big West
+Charleston,Charleston,Colonial Athletic
+Delaware,Delaware,Colonial Athletic
+Drexel,Drexel,Colonial Athletic
+Elon,Elon,Colonial Athletic
+Hofstra,Hofstra,Colonial Athletic
+James Madison,James Madison,Colonial Athletic
+North Carolina-Wilmington,North Carolina-Wilmington,Colonial Athletic
+Northeastern,Northeastern,Colonial Athletic
+Towson,Towson,Colonial Athletic
+William & Mary,William & Mary,Colonial Athletic
+Charlotte,Charlotte,Conference USA
+Florida Atlantic,Florida Atlantic,Conference USA
+Florida International,Florida International,Conference USA
+Louisiana Tech,Louisiana Tech,Conference USA
+Marshall,Marshall,Conference USA
+Middle Tennessee,Middle Tennessee,Conference USA
+North Texas,North Texas,Conference USA
+Old Dominion,Old Dominion,Conference USA
+Rice,Rice,Conference USA
+Southern Miss,Southern Miss,Conference USA
+UAB,University of Alabama (Birmingham),Conference USA
+UTEP,University of Texas (El Paso),Conference USA
+UTSA,University of Texas (San Antonio),Conference USA
+Western Kentucky,Western Kentucky,Conference USA
+Cleveland State,Cleveland State,Horizon
+Detroit,Detroit,Horizon
+Green Bay,Green Bay,Horizon
+Illinois-Chicago,Illinois-Chicago,Horizon
+Milwaukee,Milwaukee,Horizon
+Oakland,Oakland,Horizon
+Valparaiso,Valparaiso,Horizon
+Wright State,Wright State,Horizon
+Youngstown State,Youngstown State,Horizon
+NJIT,New Jersey Institute of Technology,Independents
+Brown,Brown,Ivy League
+Columbia,Columbia,Ivy League
+Cornell,Cornell,Ivy League
+Dartmouth,Dartmouth,Ivy League
+Harvard,Harvard,Ivy League
+Pennsylvania,Pennsylvania,Ivy League
+Princeton,Princeton,Ivy League
+Yale,Yale,Ivy League
+Canisius,Canisius,Metro Atlantic Athletic
+Fairfield,Fairfield,Metro Atlantic Athletic
+Iona,Iona,Metro Atlantic Athletic
+Manhattan,Manhattan,Metro Atlantic Athletic
+Marist,Marist,Metro Atlantic Athletic
+Monmouth,Monmouth,Metro Atlantic Athletic
+Niagara,Niagara,Metro Atlantic Athletic
+Quinnipiac,Quinnipiac,Metro Atlantic Athletic
+Rider,Rider,Metro Atlantic Athletic
+Siena,Siena,Metro Atlantic Athletic
+St. Peter's,St. Peter's,Metro Atlantic Athletic
+Akron,Akron,Mid American East
+Bowling Green,Bowling Green,Mid American East
+Buffalo,Buffalo,Mid American East
+Kent State,Kent State,Mid American East
+Miami (OH),Miami (OH),Mid American East
+Ohio,Ohio,Mid American East
+Ball State,Ball State,Mid American West
+Central Michigan,Central Michigan,Mid American West
+Eastern Michigan,Eastern Michigan,Mid American West
+Northern Illinois,Northern Illinois,Mid American West
+Toledo,Toledo,Mid American West
+Western Michigan,Western Michigan,Mid American West
